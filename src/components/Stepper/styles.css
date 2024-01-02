@@ -1,0 +1,12 @@
+.stepper{
+  width: 100px;
+  height: 300px;
+  border-radius: 50px;
+  background-color: grey;
+  
+  position: fixed;
+
+  top: calc(50% - 150px);
+  left: 90vw;
+  z-index: 10;
+}
